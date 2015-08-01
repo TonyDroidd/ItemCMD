@@ -1,2 +1,2 @@
 # ItemCMD
-Run a commands when interactt with items
+Run a commands when interactt with items!
