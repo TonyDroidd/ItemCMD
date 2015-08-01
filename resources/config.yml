@@ -1,0 +1,55 @@
+# Config file for ItemCMD
+# By: TonyDroidd / @TDroidd
+
+# You can change the Item and Commands for another you want!
+
+Enable-1: true
+Item-1: 264
+Command-1:
+- tell {player} you are awesome!
+- say {player} is awesome
+
+Enable-2: true
+Item-2: 331
+Command-2:
+- tell {player} you are using a redstone!
+
+Enable-3: true
+Item-3: 388
+Command-3:
+- say {player} is using ItemCMD
+
+Enable-4: true
+Item-4: 341
+Command-4:
+- tell {player} this is a cool SlimeBall!
+
+Enable-5: true
+Item-5: 405
+Command-5:
+- say {player} is holding a nether brick!
+
+Enable-6: true
+Item-6: 332
+Command-6:
+- give {player} apple 10
+
+Enable-7: false
+Item-7: # Add other id here
+Command-7:
+- # Add other command here
+
+Enable-8: false
+Item-8: # Add other id here
+Command-8:
+- # Add other command here
+
+Enable-9: false
+Item-9: # Add other id here
+Command-9:
+- # Add other command here
+
+Enable-10: false
+Item-10: # Add other id here
+Command-10:
+- # Add other command here

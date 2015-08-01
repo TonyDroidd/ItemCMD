@@ -1,0 +1,8 @@
+---
+name: ItemCMD
+version: 1.0
+main: TDroidd\ItemCMD\Main
+api: [1.12.0]
+author: TonyDroidd
+description: Run a commands when interactt with items
+
