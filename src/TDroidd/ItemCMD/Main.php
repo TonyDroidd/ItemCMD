@@ -20,7 +20,7 @@ class Main extends PluginBase implements Listener{
 
     public function onHeld(PlayerItemHeldEvent $event){
                 $cfg = $this->getConfig();
-                $player = $event->getPlayer();
+                $playername = $event->getPlayer()->getName();
                 $item = $event->getItem()->getId();
                 
             if($item === $cfg->get("Item-1") and $cfg->get("Enable-1") == true){
